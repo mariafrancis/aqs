@@ -1,9 +1,7 @@
-#include<iostream.h>
+#include<iostream>
 #include<stdlib.h>
 int main()
 {
-
-    system('cls');
     int a,b;
     cout<<"enter 2 numbers";
     cin>>a>>b;
